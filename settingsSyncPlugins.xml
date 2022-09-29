@@ -326,6 +326,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.star.easydoc.easy-javadoc">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.vermouthx.idea">
           <value>
             <PluginData>

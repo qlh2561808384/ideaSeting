@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discovery" />
       <item value="当前存量" />
       <item value="Disable Circular Reference Detect" />
     </histories>
